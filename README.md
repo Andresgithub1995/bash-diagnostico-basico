@@ -21,6 +21,6 @@ All commands are read-only and safe to run on personal computers.
 ### 4. Use the interactive menu
 ``./diagnostico.sh --menu``
 
-## Notes>
-- This script does not mofify system configuration
-- No administrative privileges are required (some sections may show more information when run as root)
+## Notes
+> - This script does not mofify system configuration
+> - No administrative privileges are required (some sections may show more information when run as root)
