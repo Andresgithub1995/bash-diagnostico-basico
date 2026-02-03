@@ -24,4 +24,3 @@ All commands are read-only and safe to run on personal computers.
 ## Notes>
 - This script does not mofify system configuration
 - No administrative privileges are required (some sections may show more information when run as root)
-- Intended for learning, troubleshooting, and porfolio demonstration.
